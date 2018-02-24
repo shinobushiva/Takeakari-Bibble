@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  BibbleTest
+//  TakeakariBibble
 //
 //  Created by Shinobu Izumi on 2017/11/02.
 //  Copyright © 2017年 Shinobu Izumi. All rights reserved.

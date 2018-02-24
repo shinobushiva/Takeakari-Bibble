@@ -1,15 +1,15 @@
 //
-//  BibbleTestTests.swift
-//  BibbleTestTests
+//  TakeakariBibbleTests.swift
+//  TakeakariBibbleTests
 //
 //  Created by Shinobu Izumi on 2017/11/02.
 //  Copyright © 2017年 Shinobu Izumi. All rights reserved.
 //
 
 import XCTest
-@testable import BibbleTest
+@testable import TakeakariBibble
 
-class BibbleTestTests: XCTestCase {
+class TakeakariBibbleTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

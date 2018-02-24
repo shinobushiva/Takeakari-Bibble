@@ -1,6 +1,6 @@
 //
-//  BibbleTestUITests.swift
-//  BibbleTestUITests
+//  TakeakariBibbleUITests.swift
+//  TakeakariBibbleUITests
 //
 //  Created by Shinobu Izumi on 2017/11/02.
 //  Copyright © 2017年 Shinobu Izumi. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class BibbleTestUITests: XCTestCase {
+class TakeakariBibbleTestUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

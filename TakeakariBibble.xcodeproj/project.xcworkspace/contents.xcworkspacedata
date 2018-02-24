@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:BibbleTest.xcodeproj">
+      location = "self:/Users/izumi/Google Drive/Developments/XCode/BibbleTest/TakeakariBibble.xcodeproj">
    </FileRef>
 </Workspace>
