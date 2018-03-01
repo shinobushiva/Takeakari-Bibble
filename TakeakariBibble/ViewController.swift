@@ -96,7 +96,7 @@ class ViewController: NSViewController, CBCentralManagerDelegate, CBPeripheralDe
     
     func tableView(_ tableView: NSTableView, viewFor tableColumn: NSTableColumn?, row: Int) -> NSView?
     {
-        let cell = tableView.makeView(withIdentifier: tableColumn!.identifier, owner: self) as! NSTableCellView
+        let cell = tableView.make(withIdentifier: tableColumn!.identifier, owner: self) as! NSTableCellView
         
         let key = Array(biblleMap.keys)[row]
         let data = biblleMap[key]?.dataForCell()

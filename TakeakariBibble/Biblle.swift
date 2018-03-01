@@ -163,6 +163,9 @@ class Biblle : NSObject, CBPeripheralDelegate{
     }
     
     func dataForCell() -> Dictionary<String, NSObject>{
+        if (self.data == nil) {
+            return [:]
+        }
         
         let distance = self.data!.distance(rssi:self.rssi)
         let proximity = self.proximity(fromDistance: distance)
